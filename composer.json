@@ -1,5 +1,5 @@
 {
-    "name": "konduto/sdk",
+    "name": "hiryu85/konduto-sdk",
     "description": "Konduto Fraud Detection Service PHP SDK",
     "license": "MIT",
     "require": {
